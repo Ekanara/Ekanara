@@ -78,8 +78,6 @@ holds them together.
 | **[Dairy AI](https://github.com/Ekanara/Dairy_Retail_Zalo_Bot)** | AI sales assistant living inside Zalo, 8 microservices, SPIN selling agent, hybrid RAG product search, full order lifecycle | `FastAPI` `AgentScope` `MCP` `Qdrant` `PostgreSQL` |
 | **[Audio Deepfake Detection](https://github.com/Ekanara/Audio_Deepfake_Detection)** | Detects AI generated environmental audio for the ESDD challenge at ICASSP. BEATs encoder with log likelihood fake only scoring, 0.99 AUC and 95.4% accuracy on TUTASC19 | `PyTorch` `BEATs` `Python` |
 | **[AI Tool for Room Decoration](https://github.com/Ekanara/AI-Tool-for-Room-Decoration)** | Generative interior design, turn a room photo into styled decoration concepts | `Python` `Diffusion` |
-| **[Deepfake Detection](https://github.com/Ekanara/Deepfake_Detection)** | Classifier for spotting manipulated faces in images and video | `PyTorch` `Jupyter` |
-| **[Python for Data Science](https://github.com/Ekanara/Python_Basic_For_Data_Science)** | Notebook series working through the data science fundamentals | `Jupyter` `pandas` |
 
 ---
 
